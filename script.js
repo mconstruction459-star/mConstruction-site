@@ -1,4 +1,4 @@
-// Show Our Work section
+
 const ourWorkBtn = document.getElementById("ourWorkBtn");
 const mainContent = document.getElementById("mainContent");
 const ourWork = document.getElementById("ourWork");
